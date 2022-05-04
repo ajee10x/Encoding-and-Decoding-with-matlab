@@ -6,59 +6,53 @@ n =
 
 k =
 
-    12
+     8
 
 
 ans =
 
-     0     0     1     0     0     0     1     1     1     0     0     1
+     1     1     1     1     1     0     0     1
 
 
 pol =
 
-     1     0     0     0     0     0     0     0     0     0     0     0     1
+  Columns 1 through 14
+
+     1     0     0     0     0     0     0     0     1     0     0     0     0     0
+
+  Columns 15 through 17
+
+     0     0     1
 
 
 genmat =
 
   Columns 1 through 14
 
-     1     0     0     0     0     0     0     0     0     0     0     0     1     0
-     0     1     0     0     0     0     0     0     0     0     0     0     0     1
-     0     0     1     0     0     0     0     0     0     0     0     0     0     0
-     0     0     0     1     0     0     0     0     0     0     0     0     0     0
-     0     0     0     0     1     0     0     0     0     0     0     0     0     0
-     0     0     0     0     0     1     0     0     0     0     0     0     0     0
+     1     0     0     0     0     0     0     0     1     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     1     0     0     0     0
+     0     0     1     0     0     0     0     0     0     0     1     0     0     0
+     0     0     0     1     0     0     0     0     0     0     0     1     0     0
+     0     0     0     0     1     0     0     0     0     0     0     0     1     0
+     0     0     0     0     0     1     0     0     0     0     0     0     0     1
      0     0     0     0     0     0     1     0     0     0     0     0     0     0
      0     0     0     0     0     0     0     1     0     0     0     0     0     0
-     0     0     0     0     0     0     0     0     1     0     0     0     0     0
-     0     0     0     0     0     0     0     0     0     1     0     0     0     0
-     0     0     0     0     0     0     0     0     0     0     1     0     0     0
-     0     0     0     0     0     0     0     0     0     0     0     1     0     0
 
   Columns 15 through 24
 
-     0     0     0     0     0     0     0     0     0     0
-     0     0     0     0     0     0     0     0     0     0
-     1     0     0     0     0     0     0     0     0     0
-     0     1     0     0     0     0     0     0     0     0
      0     0     1     0     0     0     0     0     0     0
      0     0     0     1     0     0     0     0     0     0
      0     0     0     0     1     0     0     0     0     0
      0     0     0     0     0     1     0     0     0     0
      0     0     0     0     0     0     1     0     0     0
      0     0     0     0     0     0     0     1     0     0
-     0     0     0     0     0     0     0     0     1     0
-     0     0     0     0     0     0     0     0     0     1
+     1     0     0     0     0     0     0     0     1     0
+     0     1     0     0     0     0     0     0     0     1
 
-Single-error patterns loaded in decoding table.  4083 rows remaining.
-2-error patterns loaded.  4017 rows remaining.
-3-error patterns loaded.  3797 rows remaining.
-4-error patterns loaded.  3302 rows remaining.
-5-error patterns loaded.  2510 rows remaining.
-6-error patterns loaded.  1586 rows remaining.
-7-error patterns loaded.  794 rows remaining.
-8-error patterns loaded.  299 rows remaining.
-9-error patterns loaded.  79 rows remaining.
-10-error patterns loaded.  13 rows remaining.
->> 
+Single-error patterns loaded in decoding table.  65511 rows remaining.
+2-error patterns loaded.  65259 rows remaining.
+3-error patterns loaded.  63747 rows remaining.
+4-error patterns loaded.  58077 rows remaining.
+5-error patterns loaded.  44469 rows remaining.
+6-error patterns loaded.  24057 rows remaining.
+7-error patterns loaded.  6561 rows remaining.
