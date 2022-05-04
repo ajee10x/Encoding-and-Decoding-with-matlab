@@ -1,5 +1,5 @@
-%ajee10x
 clc,clear
+%ajee10x
 %The original code from 
 %Hamming code simulation-JC-4/15/06
 % I made a new experments according to my editing and new methodology
