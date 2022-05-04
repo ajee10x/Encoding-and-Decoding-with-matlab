@@ -1,0 +1,57 @@
+>> Hamming1New
+
+n =
+
+     6
+
+
+k =
+
+     3
+
+
+G =
+
+     1     0     0     1     1     0
+     0     1     0     1     0     1
+     0     0     1     0     1     1
+
+
+H =
+
+     1     1     0     1     0     0
+     1     0     1     0     1     0
+     0     1     1     0     0     1
+
+
+msg =
+
+     1     0     1
+
+
+code =
+
+     1     0     1     1     0     1
+
+
+recd =
+
+     1     1     1     1     0     1
+
+
+syndrome =
+
+     1     0     1
+
+Position of error in codeword=2
+
+correctedcode =
+
+     1     0     1     1     0     1
+
+
+msg_decoded =
+
+     1     0     1     
+
+>> 
