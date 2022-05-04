@@ -1,0 +1,27 @@
+
+ans =
+
+     0     0     0     1     0     1
+
+
+parity =
+
+     0
+
+
+ans =
+
+     0     0     0     1     0     1     0
+
+
+ans =
+
+     0     0     0     1     1     0     0
+
+
+parity_check =
+
+     0
+
+No errors.Everything is correct
+>> 
